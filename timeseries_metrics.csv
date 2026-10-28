@@ -1,0 +1,2 @@
+model,sequence_length,units,learning_rate,batch_size,epochs_requested,MAE_C,MSE_C2,RMSE_C
+SimpleRNN,24,16,0.001,64,3,1.564968228340149,4.882023811340332,2.209530224129177

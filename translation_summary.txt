@@ -1,0 +1,13 @@
+Mean sentence BLEU (held-out pairs): 0.0114
+
+        input generated         reference     BLEU
+        hello       a a           bonjour 0.000000
+ i like music je suis a j aime la musique 0.000000
+ i understand je suis a      je comprends 0.113622
+i like coffee je suis a    j aime le cafe 0.000000
+  i am hungry je suis a         j ai faim 0.000000
+   good night         a        bonne nuit 0.000000
+i am learning je suis a        j apprends 0.000000
+     go there   je suis      allez la bas 0.000000
+ good morning         a           bonjour 0.000000
+   i like tea je suis a     j aime le the 0.000000
